@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.10",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/il-340x270.1242582149-7h7z-128x102.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ppmlogowithtext-128x64.png",
     "noImageResize": "",
     "uniqCompNum": 2,
     "versionPublish": "4.7.10",
