@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#e7cb18"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.10",
@@ -130,6 +132,12 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left"
+            },
+            ".mbr-text, .mbr-section-btn P": {
+              "color": "#e7cb18"
+            },
+            "H1": {
+              "color": "#e1f50e"
             }
           },
           "_name": "header15",
