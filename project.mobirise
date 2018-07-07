@@ -28,7 +28,9 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#e7cb18"
+        "#e7cb18",
+        "#e1f50e",
+        "#f1eede"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -134,7 +136,7 @@
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn P": {
-              "color": "#e7cb18"
+              "color": "#f1eede"
             },
             "H1": {
               "color": "#e1f50e"
